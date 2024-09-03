@@ -32,7 +32,7 @@ The directory structure of this project is organized as follows:
 └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.,
                           generated with `pip freeze > requirements.txt`.
 
- ## Contribute
+## Contribute
 
 If you'd like to contribute, feel free to contact me here:
 
