@@ -31,15 +31,3 @@ The directory structure of this project is organized as follows:
 │
 └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.,
                           generated with `pip freeze > requirements.txt`.
-
-## Contribute
-
-If you'd like to contribute, feel free to contact me here:
-
-<a href="https://www.linkedin.com/in/ikhzasyafamuis/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  <a href="mailto:ikhza25@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="52" height="40" alt="gmail logo"/>
-  </a>
-
